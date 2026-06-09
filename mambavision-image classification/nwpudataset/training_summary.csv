@@ -1,0 +1,2 @@
+Best Validation Accuracy (%),Test Accuracy (%),Test Precision (%),Test Recall (%),Test F1 Score (%),Number of Epochs,Batch Size,Learning Rate (initial),Weight Decay
+92.83333333333333,96.44444444444444,96.47131761019759,96.44444444444444,96.43837129010085,50,32,5e-05,1e-05
